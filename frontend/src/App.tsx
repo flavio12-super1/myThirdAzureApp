@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React!! from flavio herrera
+          Learn React!! from flavio herrera pain
         </a>
       </header>
     </div>
