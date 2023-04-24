@@ -17,7 +17,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React!! from flavio herrera pain pain pain pain pain please work
-          you piece of fucking shit or i will hurt myself
+          you piece of fucking shit or i will hurt myself no joke
         </a>
       </header>
     </div>
