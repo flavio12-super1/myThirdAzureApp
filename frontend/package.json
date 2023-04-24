@@ -20,6 +20,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "test": "jest",
     "serve": "serve -s build",
     "eject": "react-scripts eject"
   },
